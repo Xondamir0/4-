@@ -1,0 +1,42 @@
+.father {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+#input {
+    box-sizing: border-box;
+    border: 3px solid rgb(42, 42, 42);
+    border-radius: 30px;
+
+    background: rgb(217, 217, 217);
+    padding: 5px;
+}
+
+.Send {
+    box-sizing: border-box;
+    border-radius: 30px;
+    background: #2a2a2a;
+    padding: 5px;
+    color: white;
+}
+
+.wrapper {
+    border-radius: 32px;
+    color: red;
+    gap: 10px;
+    background: #2a2a2a;
+    width: 200px;
+    display: flex;
+    margin-top: 28px;
+    padding: 20px;
+    justify-content: center;
+}
+
+.texbox{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
